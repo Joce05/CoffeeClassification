@@ -1,26 +1,24 @@
-Coffee Classification with KNN
+*Coffee Classification with KNN* : 
 This project uses the Coffee Quality Data (CQI) dataset from Kaggle to classify coffee quality based on various attributes. The classification is implemented using the K-Nearest Neighbors (KNN) algorithm.
 
-Project Objective
+*Project Objective* : 
 The goal of this project is to build a machine learning model to classify coffee quality into different categories. By analyzing the features of coffee samples, the model predicts the quality, helping coffee producers and consumers make informed decisions.
 
-Table of Contents
-Introduction
-Dataset
-Project Workflow
-Model and Evaluation
-Results
+*Table of Contents* : 
+1. Introduction
+2. Dataset
+3. Project Workflow
 
-Introduction
+1. *Introduction*
 Coffee quality is influenced by various factors such as bean origin, processing methods, and sensory attributes like aroma and acidity. By leveraging machine learning, this project predicts coffee quality categories, aiding producers and distributors in optimizing their processes.
 
 
-Dataset
+2. *Dataset*
 The dataset used in this project is the Coffee Quality Data (CQI) from Kaggle. It contains multiple features related to coffee quality evaluations.
 
-Key Features:
-Numerical Features:
+*Key Features:*
 
+Numerical Features:
 Altitude Mean Meters
 Aroma
 Flavor
@@ -30,15 +28,16 @@ Balance
 Uniformity
 Sweetness
 Total Cup Points
-Categorical Features:
 
+Categorical Features:
 Country of Origin
 Variety
+
 Processing Method
 Target Variable:
-
 Coffee quality classification (<=84 Normal coffee, >84 Special coffee)
-Project Workflow
+
+3. *Project Workflow* : 
 1. Exploratory Data Analysis (EDA)
 Inspect the dataset for missing values and duplicates.
 Visualize feature distributions and relationships using matplotlib and seaborn.
