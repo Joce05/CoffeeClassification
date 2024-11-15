@@ -18,26 +18,25 @@ Coffee quality is influenced by various factors such as bean origin, processing 
 2. *Dataset* : 
 The dataset used in this project is the Coffee Quality Data (CQI) from Kaggle. It contains multiple features related to coffee quality evaluations.
 
-*Key Features:*
+      *Key Features:*
 
-Numerical Features:
-Altitude Mean Meters
-Aroma
-Flavor
-Acidity
-Body
-Balance
-Uniformity
-Sweetness
-Total Cup Points
+        Numerical Features:
+        Altitude Mean Meters
+        Aroma
+        Flavor
+        Acidity
+        Body
+        Balance
+        Uniformity
+        Sweetness
+        Total Cup Points
+        
+        Categorical Features:
+        Country of Origin
+        Variety
 
-Categorical Features:
-Country of Origin
-Variety
-
-Processing Method
-Target Variable:
-Coffee quality classification (<=84 Normal coffee, >84 Special coffee)
+        Target Variable:
+        Coffee quality classification (<=84 Normal coffee, >84 Special coffee)
 
 3. *Project Workflow* : 
 1. Exploratory Data Analysis (EDA)
