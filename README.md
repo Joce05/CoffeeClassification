@@ -39,20 +39,20 @@ The dataset used in this project is the Coffee Quality Data (CQI) from Kaggle. I
         Coffee quality classification (<=84 Normal coffee, >84 Special coffee)
 
 3. *Project Workflow* : 
-1. Exploratory Data Analysis (EDA)
-Inspect the dataset for missing values and duplicates.
-Visualize feature distributions and relationships using matplotlib and seaborn.
-Understand the influence of individual features on coffee quality.
-2. Data Preprocessing
-Handling Missing Values: Impute or drop missing data.
-Feature Scaling: Normalize numerical features for uniform scaling.
-Encoding: Convert categorical features into numerical representations using techniques like One-Hot Encoding.
-3. Model Training
-20% for testing and 80% for training
-4. Model Evaluation
-Metrics used:
-Accuracy
-Precision
-Recall
-F1-Score
-Visualized the confusion matrix for detailed performance insights.
+     1. Exploratory Data Analysis (EDA) :
+     Inspect the dataset for missing values and duplicates.
+     Visualize feature distributions and relationships using matplotlib and seaborn.
+     Understand the influence of individual features on coffee quality.
+     2. Data Preprocessing : 
+     Handling Missing Values: Impute or drop missing data.
+     Feature Scaling: Normalize numerical features for uniform scaling.
+     Encoding: Convert categorical features into numerical representations using techniques like One-Hot Encoding.
+     3. Model Training : 
+     20% for testing and 80% for training
+     4. Model Evaluation : 
+     Metrics used:
+     Accuracy
+     Precision
+     Recall
+     F1-Score
+     Visualized the confusion matrix for detailed performance insights.
