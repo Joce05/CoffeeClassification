@@ -9,6 +9,8 @@ The goal of this project is to build a machine learning model to classify coffee
 2. Dataset
 3. Project Workflow
 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. *Introduction*
 Coffee quality is influenced by various factors such as bean origin, processing methods, and sensory attributes like aroma and acidity. By leveraging machine learning, this project predicts coffee quality categories, aiding producers and distributors in optimizing their processes.
 
